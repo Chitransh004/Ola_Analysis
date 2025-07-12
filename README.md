@@ -1,4 +1,5 @@
-🚖 OLA Ride Analysis – Data Analyst Project (SQL + Power BI)
+#🚖 OLA Ride Analysis – Data Analyst Project (SQL + Power BI)
+
 Hi, I'm Chitransh Rahangdale, and this is my professional-level data analyst project based on ride booking data from OLA Cabs. In this project, I worked on a simulated dataset representing real-world ride booking patterns in Bengaluru, India.
 
 📌 Project Summary
